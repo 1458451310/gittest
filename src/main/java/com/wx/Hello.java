@@ -9,6 +9,7 @@ public class Hello {
         System.out.println("hello git4");
         System.out.println("push test");
           System.out.println("pull test");
+        System.out.println("pull test222222");
     }
 
 }
